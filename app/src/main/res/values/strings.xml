@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculate</string>
+    <string name="name_app">SmartCalc</string>
+    <string name="convert">Перевести</string>
+    <string name="choose_measurement">Выберите единицу измерения:\n</string>
+    <string name="string_result">Результат:</string>
+    <string name="back">Назад</string>
+    <string name="result" />
+    <string name="enterNumber">Введите массу</string>
+    </resources>
